@@ -3,6 +3,26 @@
     border: 1px solid #333;
 } */
 
+
+body {
+    background-color: powderblue;
+
+}
+
+h1,
+h3 {
+    color: #1a508b;
+}
+
+hr {
+    background-color: white;
+    border-style: none;
+    width: 50%;
+    height: 2px;
+    
+}
+
+
 .profile {
     width: 25%;
 }
